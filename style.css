@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 14px;
+    background-color: black;
+    color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+}
+h3{
+    color: rgb(4, 247, 4);
+    border: 2px solid whitesmoke;
+    border-radius: 12px;
+    padding: 22px;
+    background-color: rgb(50, 20, 20);
+}
